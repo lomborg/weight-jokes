@@ -2,7 +2,6 @@
     "name": "lomborg/weight-jokes",
     "description": "Create random weight jokes.",
     "license": "MIT",
-    "version": "1.0.0",
     "authors": [
         {
             "name": "Dennis Lomborg",
