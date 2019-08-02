@@ -1,0 +1,27 @@
+{
+    "name": "lomborg/weight-jokes",
+    "description": "Create random weight jokes.",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Dennis Lomborg",
+            "email": "d.lomborg@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lomborg\\WeightJokes\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Lomborg\\WeightJokes\\Tests\\": "tests/"
+
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    }
+}

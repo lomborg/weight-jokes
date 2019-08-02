@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="BeyondCode Test Suite" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.122420">
+    <testsuite name="Lomborg\WeightJokes\Tests\JokeFactoryTest" file="/home/vagrant/code/weight-jokes/tests/JokeFactoryTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.122420">
+      <testcase name="it_return_a_random_joke" class="Lomborg\WeightJokes\Tests\JokeFactoryTest" classname="Lomborg.WeightJokes.Tests.JokeFactoryTest" file="/home/vagrant/code/weight-jokes/tests/JokeFactoryTest.php" line="11" assertions="1" time="0.122420"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
